@@ -1,5 +1,5 @@
 # npcausal
-
+http://www.citeulike.org/user/guhjy/article/14509399
 This package provides a variety of tools for nonparametric estimation of causal effects across a wide range of settings. The methods are based on the theory of influence functions, and can incorporate flexible machine learning and high-dimensional regression tools, while still yielding inference in the form of confidence intervals and hypothesis tests. Many of the methods are doubly robust.
 
 ## Installing

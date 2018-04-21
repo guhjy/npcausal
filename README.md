@@ -16,8 +16,8 @@ Along with standard treatment effect estimators, npcausal can also implement met
 
 Kennedy EH, Balakrishnan S, G'Sell M. Sharp instruments for classifying compliers and generalizing causal effects. [arxiv:1801.03635](https://arxiv.org/abs/1801.03635)
 
-    Kennedy EH. Nonparametric causal effects based on incremental propensity score interventions. Journal of the American Statistical Association. (to appear). [arxiv:1704.00211](https://arxiv.org/abs/1704.00211)
+Kennedy EH. Nonparametric causal effects based on incremental propensity score interventions. Journal of the American Statistical Association. (to appear). [arxiv:1704.00211](https://arxiv.org/abs/1704.00211)
     
-    Kennedy EH, Ma Z, McHugh MD, Small DS. Nonparametric methods for doubly robust estimation of continuous treatment effects. Journal of the Royal Statistical Society: Series B. 2017; 79(4): 1229-1245. doi:10.1111/rssb.12212 [arxiv:1507.00747](http://arxiv.org/abs/1507.00747)
+Kennedy EH, Ma Z, McHugh MD, Small DS. Nonparametric methods for doubly robust estimation of continuous treatment effects. Journal of the Royal Statistical Society: Series B. 2017; 79(4): 1229-1245. doi:10.1111/rssb.12212 [arxiv:1507.00747](http://arxiv.org/abs/1507.00747)
     
-    [Kennedy EH, Sjolander A, Small DS. Semiparametric causal inference in matched cohort studies. Biometrika. 2015; 102(3): 739-746. doi:10.1093/biomet/asv025](http://sci-hub.tw/10.1093/biomet/asv025)
+Kennedy EH, Sjolander A, Small DS. Semiparametric causal inference in matched cohort studies. Biometrika. 2015; 102(3): 739-746. [doi:10.1093/biomet/asv025](http://sci-hub.tw/10.1093/biomet/asv025)
